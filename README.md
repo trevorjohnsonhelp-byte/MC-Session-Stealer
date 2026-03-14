@@ -13,4 +13,5 @@ No additional libraries required
 - Account
 - Name
 - UUID
+- Version
 - Session-Token
