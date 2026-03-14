@@ -1,5 +1,5 @@
 # MC-Session-Stealer
-Simple Session-Token stealer written as a forge mod for Minecraft 1.8.9
+Simple Session-Token stealer written as a fabric mod for Minecraft 1.20.6
 
 # ⚠️ Disclaimer
 This program is for educational purposes only, and I am not responsible for any of your actions
